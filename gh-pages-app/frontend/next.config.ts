@@ -1,9 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "export",
-  images: { unoptimized: true },
-  basePath: "/ly0nchik_rep",
+  /* config options here */
 };
 
 export default nextConfig;
